@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dileepkumar-bit.github.io/sitemap.xml
